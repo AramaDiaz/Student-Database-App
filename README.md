@@ -1,4 +1,3 @@
-# StudentDatabaseApp
 The application does the following:
  Ask the user how many new students will be added to the database; 
  The user should be prompted to enter the name and year for each student; 
